@@ -1,0 +1,25 @@
+IGUI_EN = {
+    IGUI_perks_DnDCatG = "(Buffy Dice) General",
+    IGUI_perks_DnDCatA = "(Buffy Dice) Attack",
+    IGUI_perks_DnDCatD = "(Buffy Dice) Defense",
+    IGUI_perks_DnDCatM = "(Buffy Dice) Misc",
+
+    IGUI_perks_DnDInitiative = "Initiative",
+
+    IGUI_perks_DnDStrength = "Strength",
+    IGUI_perks_DnD1hMelee = "MELEE 1 Handed",
+    IGUI_perks_DnD2hMelee = "MELEE 2 Handed",
+
+    IGUI_perks_DnDDefense = "ARMOR Defense",
+    IGUI_perks_DnDEvasion = "Evasion",
+    IGUI_perks_DnDAccuracy = "Accuracy",
+
+    IGUI_perks_DnDCharisma = "Charisma",
+    IGUI_perks_DnDIntelligence = "Intelligence",
+    IGUI_perks_DnDWisdom = "Wisdom",
+    IGUI_perks_DnDInsight = "Insight",
+    IGUI_perks_DnDFirstAid = "First Aid",
+    IGUI_perks_DnDPersuasion = "Persuasion",
+    IGUI_perks_DnDDeception = "Deception",
+    IGUI_perks_DnDPerception = "Perception",
+}

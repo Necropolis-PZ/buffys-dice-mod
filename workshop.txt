@@ -1,0 +1,30 @@
+version=1
+id=2728250841
+title=buffy's RP dice system
+description=[h1]You don't need to start a new save to use this mod.[/h1]
+description=
+description=Adds DnD style rolling via clicking a dice skill in the skills menu. 
+description=
+description=Level up specific DnD skills using a set amount of skill points (determined in sandbox options).
+description=Once all points are allocated, click one of the skills to roll the dice!
+description=
+description=
+description=[h1]Features[/h1]
+description=-Uses your character's firstname in the rolls. Pairs best with my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2688851521]roleplaychat mod[/url], that adds full RP functionality to the chatbox.
+description=
+description=-Ruleset toggle for determining if a roll plus its modifier > 20 equals a critsuccess. By default this is false; the default mod ruleset uses the 5e rules. Toggleable in sandbox options (takes a minute ingame to update the ruleset)
+description=
+description=-Skill point totals can be set in sandbox options. Default is 30, minimum is 10. This is the budget players get when assigning skills.
+description=
+description=-Ctrl Shift Click a dice skill to reset your skills. Notifies everyone around you that you just did so.
+description=
+description=[h3]
+description=Normal ruleset (loaded by default):
+description=[img]https://i.imgur.com/UFJk61a.png[/img]
+description=[img]https://i.imgur.com/9fsp90u.png[/img]
+description=[/h3]
+description=
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=[url=https://www.paypal.com/donate?hosted_button_id=9AQJ94QTKB88S][img]https://i.imgur.com/HCYZryj.png][/img][/url]
+tags=Build 41;Interface;Misc;Multiplayer
+visibility=public
